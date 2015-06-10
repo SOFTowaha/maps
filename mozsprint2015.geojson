@@ -83,7 +83,83 @@
         "marker-symbol": "chemist",
         "name": "Jabalpur"
       }
-    }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [22.94442,40.64006]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Techministry, Thessaloniki"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [6.05528,46.23299]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "CERN, Geneva"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-3.17325,55.92143]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Université Lille, Lille"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-3.17325,55.92143]  
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Software Sustainability Institute, Edinburgh"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-3.47308,50.72568] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Met Office, Exeter"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-3.17325,55.92143] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Imperial College London"
+      }
+    }   
+
+
+
 
     ]
 }
