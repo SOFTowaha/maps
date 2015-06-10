@@ -156,10 +156,199 @@
         "marker-symbol": "chemist",
         "name": "Imperial College London"
       }
-    }   
+    }, 
 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-45.06936,-23.44212]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Ubatuba"
+      }
+    }, 
 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-78.48445,38.03179]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Center for Open Science, Charlottesville"
+      }
+    },     
 
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-73.99046,40.70306]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Mozilla Brooklyn Office, NYC"
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-79.39422,43.64711]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Mozilla Toronto"
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-88.24338,40.11642] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Champaign"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-87.66033,41.85841] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Chicago"
+      }
+    },    
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-93.26501,44.97775]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Minneapolis"
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-114.12957,51.07559]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "University of Calgary, Calgary"
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-114.12957,51.07559] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Northern Arizona University, Flagstaff"
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-122.66149,45.63873] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Mozilla Vancouver"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-122.30352,47.65534]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "University of Washington eScience Center, Seattle"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates":  [-122.67648,45.52306]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Portland"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-122.26545,37.80675] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Riffyn, Oakland"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-122.16027,37.44338] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Science Exchange, Palo Alto"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-122.40145,37.80181] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "PLoS, San Fransisco"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-105.27055,40.01499]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Boulder, Colorado"
+      }
+    }
 
     ]
 }
