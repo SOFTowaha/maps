@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [153.01203,-27.49543] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "University of Queensland, Brisbane"
+      }
+    }
+
+    ]
+}
