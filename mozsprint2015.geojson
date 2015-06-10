@@ -11,6 +11,78 @@
         "marker-symbol": "chemist",
         "name": "University of Queensland, Brisbane"
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [153.01203,-27.49543] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "University of Melbourne"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [153.01203,-27.49543] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "NIWA, Auckland"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [77.61330,12.96164]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Mozilla Community Space Bangalore"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [88.36390,22.57265] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Kolkata"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [80.02310,9.68515]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "University of Jaffna"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [79.93333,23.16667]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Jabalpur"
+      }
     }
 
     ]
