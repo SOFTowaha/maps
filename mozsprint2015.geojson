@@ -258,7 +258,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point", 
-        "coordinates": [-114.12957,51.07559] 
+        "coordinates":  [-111.65276,35.18990]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -270,7 +270,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point", 
-        "coordinates": [-122.66149,45.63873] 
+        "coordinates": [-123.12074,49.28273] 
       },
       "properties": {
         "marker-symbol": "chemist",
